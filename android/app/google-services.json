@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930765368774",
+    "project_id": "nacter-1860d",
+    "storage_bucket": "nacter-1860d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930765368774:android:06f1d061aad326e24316c7",
+        "android_client_info": {
+          "package_name": "com.example.nectar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZ_g8B2fY2TVGil1ehdOOJYzrvxZUABo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
